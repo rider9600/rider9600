@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | Engineering Student | Open Source Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Engineering+Student;Open+Source+Learner;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=software+Developer;buidling+systems;Open+Source+Learner;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/naveen2287kumar" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/rider9600" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
@@ -37,7 +37,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
-<a href="https://YOUR_PORTFOLIO_LINK.com" target="blank">
+<a href="http://rider9600.github.io/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=devto" height="40" />
 </a>
 </p>
