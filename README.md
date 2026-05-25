@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rider9600&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
-<a href="http://rider9600.github.io/" target="blank">
+<a href="https://rider9600.github.io/" target="blank" aria-label="Personal website">
 <img align="center" src="https://skillicons.dev/icons?i=devto" height="40" />
 </a>
 </p>
@@ -66,9 +66,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rider9600&show_icons=true&theme=tokyonight" height="180em"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rider9600&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=rider9600&theme=tokyonight" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=rider9600&theme=onedark&row=1&column=6" />
 </p>
 
 ---
@@ -92,7 +92,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rider9600&theme=tokyo-night" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/rider9600/rider9600/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
