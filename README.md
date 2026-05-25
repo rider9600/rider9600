@@ -18,7 +18,7 @@
 - 💻 Passionate about Web Development
 - 🌱 Currently learning Full Stack Development
 - ⚡ Love building projects and exploring new technologies
-- 📫 Reach me at: yourmail@example.com
+- 📫 Reach me at: medamnaveen16@example.com
 
 ---
 
@@ -33,7 +33,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
+<a href="https://instagram.com/naveen2287kumar" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
